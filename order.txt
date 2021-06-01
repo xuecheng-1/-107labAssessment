@@ -64,6 +64,17 @@ $ git commit -m "add distributed"
 -->[master e475afc] add distributed
 	1 file changed, 1 insertion(+), 1 deletion(-)
 
+//如果多次修改
+如果操作过程是：
+	第一次修改 -> git add -> 第二次修改 -> git commit 
+此时第二次修改没有被提交
+要提交第二次修改的话，可以继续git add再git commit，
+也可以先不提交第一次修改，
+先git add第二次修改，再git commit，就相当于把两次修改合并后一块提交了：
+	第一次修改 -> git add -> 第二次修改 -> git add -> git commit
+	
+也就是说，每次修改，如果不用git add到暂存区，那就不会加入到commit中。
+
 V.	
 $ git log 查看提交历史记录
 $ git log --pretty=oneline //如果嫌输出信息太多，看得眼花缭乱的，可以加上--pretty=oneline参数
