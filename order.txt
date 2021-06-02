@@ -26,7 +26,7 @@ $ git commmit -m "wrote a readme file" //再用git commit把文件提交到仓�
   --> -m后面输入的是本次提交的说明，可以输入任意内容
   
 (2).commit一次提交很多文件，所以可以多次add不同的文件
-$ git add file1.txt
+$ git add file1.txt //git add . 提交所有文件到暂存区
 $ git add file2.txt file3.txt
 $ git commit -m "add 3 files."
 
@@ -131,13 +131,28 @@ $ git commit -m "remove test.txt"
    1 file changed, 1 deletion(-)
    delete mode 100644 test.txt
    
-（2）.删错了，因为版本库里还有呢，所以可以很轻松地把误删的文件恢复到最新版本：
+（2）.删错了，因为版本库里还有，所以可以很轻松地把误删的文件恢复到最新版本：
 
 $ git checkout -- test.txt //git checkout其实是用版本库里的版本替换工作区的版本，无论工作区是修改还是删除，都可以“一键还原”。
 
 也就是说，命令git rm用于删除一个文件。如果一个文件已经被提交到版本库，那么你永远不用担心误删，但是要小心，你只能恢复文件到最新版本，你会丢失最近一次提交后你修改的内容。
 
 
+A. 查看全部配置 git config -l
+	查看系统配置 git config --system --list
+	查看本地配置 git config --global --list
+	
+B.克隆远程仓库 git clone [url]
 
+C.忽略文件 
+在主文件下建立“.gitignore”文件，此文件规则如下
+  1. *.txt -->忽略所有.txt结尾的文件
+  2. ！lib.txt -->lib.txt除外
+  3. /temp -->名称前面有/表示要忽略的是此目录下该名称的子目录，而子目录下的文件不忽略
+  4. build/ -->忽略build目录下的所有文件
+  5. doc/*.txt -->会忽略doc/note.txt,但不忽略doc/serve/sc.txt
+  
+
+  
 
 
