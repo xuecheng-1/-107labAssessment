@@ -1,0 +1,762 @@
+INFO 2021-07-29 18:46:40,411 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 18:47:06,227 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 18:47:20,809 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 18:48:44,519 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 19:02:37,979 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 19:03:32,300 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 19:05:23,834 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 23:10:38,224 autoreload 251 D:\djangoProject\creatBlog\creatBlog\urls.py changed, reloading.
+INFO 2021-07-29 23:10:38,997 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 23:10:57,082 autoreload 251 D:\djangoProject\creatBlog\creatBlog\urls.py changed, reloading.
+INFO 2021-07-29 23:10:57,756 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 23:11:08,553 autoreload 251 D:\djangoProject\creatBlog\creatBlog\urls.py changed, reloading.
+INFO 2021-07-29 23:11:09,205 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-29 23:14:50,277 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-29 23:15:00,219 log 224 Not Found: /
+WARNING 2021-07-29 23:15:00,220 basehttp 161 "GET / HTTP/1.1" 404 2235
+WARNING 2021-07-29 23:15:00,299 log 224 Not Found: /favicon.ico
+INFO 2021-07-29 23:15:00,300 basehttp 75 - Broken pipe from ('127.0.0.1', 60755)
+
+WARNING 2021-07-29 23:15:31,707 log 224 Not Found: /users/register
+WARNING 2021-07-29 23:15:31,707 basehttp 161 "GET /users/register HTTP/1.1" 404 2295
+WARNING 2021-07-29 23:15:40,522 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:15:40,523 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2298
+WARNING 2021-07-29 23:16:14,709 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:16:14,709 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2298
+WARNING 2021-07-29 23:16:14,775 log 224 Not Found: /favicon.ico
+INFO 2021-07-29 23:16:14,775 basehttp 75 - Broken pipe from ('127.0.0.1', 60760)
+
+INFO 2021-07-29 23:19:30,653 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-29 23:19:31,330 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-29 23:19:35,010 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:19:35,011 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2299
+WARNING 2021-07-29 23:19:35,068 log 224 Not Found: /favicon.ico
+INFO 2021-07-29 23:19:35,069 basehttp 75 - Broken pipe from ('127.0.0.1', 60889)
+
+WARNING 2021-07-29 23:19:43,761 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:19:43,762 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2299
+INFO 2021-07-29 23:19:44,347 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-29 23:19:44,973 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-29 23:19:45,362 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:19:45,363 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2298
+INFO 2021-07-29 23:21:55,840 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-29 23:21:56,477 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-29 23:21:56,729 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:21:56,730 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2300
+WARNING 2021-07-29 23:21:56,782 log 224 Not Found: /favicon.ico
+INFO 2021-07-29 23:21:56,782 basehttp 75 - Broken pipe from ('127.0.0.1', 60995)
+
+WARNING 2021-07-29 23:22:26,897 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:22:26,898 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2300
+WARNING 2021-07-29 23:22:26,954 log 224 Not Found: /favicon.ico
+INFO 2021-07-29 23:22:26,954 basehttp 75 - Broken pipe from ('127.0.0.1', 61008)
+
+INFO 2021-07-29 23:22:27,004 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-29 23:22:27,635 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-29 23:22:28,095 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:22:28,096 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2298
+WARNING 2021-07-29 23:22:30,263 log 224 Not Found: /users/register/
+WARNING 2021-07-29 23:22:30,264 basehttp 161 "GET /users/register/ HTTP/1.1" 404 2298
+ERROR 2021-07-29 23:22:46,999 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\defaulttags.py", line 1034, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\users\views.py", line 15, in get
+    return render(request, 'register.html')
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loaders\base.py", line 29, in get_template
+    return Template(
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 478, in parse
+    raise self.error(token, e)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\defaulttags.py", line 1091, in load
+    lib = find_library(parser, name)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\defaulttags.py", line 1036, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2021-07-29 23:22:47,003 basehttp 161 "GET /register/ HTTP/1.1" 500 152292
+ERROR 2021-07-29 23:23:14,011 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 470, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\users\views.py", line 15, in get
+    return render(request, 'register.html')
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loaders\base.py", line 29, in get_template
+    return Template(
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 472, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 531, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 11: 'static'. Did you forget to register or load this tag?
+ERROR 2021-07-29 23:23:14,012 basehttp 161 "GET /register/ HTTP/1.1" 500 144259
+ERROR 2021-07-29 23:26:14,154 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\defaulttags.py", line 1034, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\users\views.py", line 15, in get
+    return render(request, 'register.html')
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\loaders\base.py", line 29, in get_template
+    return Template(
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 478, in parse
+    raise self.error(token, e)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\defaulttags.py", line 1091, in load
+    lib = find_library(parser, name)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\template\defaulttags.py", line 1036, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2021-07-29 23:26:14,156 basehttp 161 "GET /register/ HTTP/1.1" 500 152030
+WARNING 2021-07-29 23:26:14,224 log 224 Not Found: /favicon.ico
+INFO 2021-07-29 23:26:14,225 basehttp 75 - Broken pipe from ('127.0.0.1', 61299)
+
+INFO 2021-07-29 23:26:53,983 basehttp 161 "GET /register/ HTTP/1.1" 200 5211
+INFO 2021-07-29 23:26:54,893 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-29 23:26:54,894 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-29 23:26:54,896 basehttp 161 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-29 23:26:54,897 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-29 23:26:54,899 basehttp 161 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-29 23:26:54,903 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-07-29 23:26:54,905 basehttp 161 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+WARNING 2021-07-29 23:27:20,434 log 224 Not Found: /smscode/
+WARNING 2021-07-29 23:27:20,434 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=LRJH&uuid=37900f78-6cd9-49f5-862e-cddf6b19051c HTTP/1.1" 404 2362
+INFO 2021-07-30 01:20:37,876 autoreload 251 D:\djangoProject\creatBlog\users\models.py changed, reloading.
+INFO 2021-07-30 01:20:39,139 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 01:20:50,565 autoreload 251 D:\djangoProject\creatBlog\users\models.py changed, reloading.
+INFO 2021-07-30 01:20:51,807 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 01:39:50,702 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 01:41:00,240 basehttp 161 "GET /register/ HTTP/1.1" 200 5211
+INFO 2021-07-30 01:41:00,355 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:41:01,815 basehttp 161 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2021-07-30 01:41:01,816 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-30 01:41:01,817 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-07-30 01:41:01,820 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-30 01:41:01,830 basehttp 161 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+WARNING 2021-07-30 01:41:01,891 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 01:41:01,892 basehttp 75 - Broken pipe from ('127.0.0.1', 62536)
+
+INFO 2021-07-30 01:41:30,662 basehttp 75 - Broken pipe from ('127.0.0.1', 62534)
+
+INFO 2021-07-30 01:41:30,662 basehttp 75 - Broken pipe from ('127.0.0.1', 62535)
+
+INFO 2021-07-30 01:41:31,255 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-30 01:41:31,338 basehttp 161 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2021-07-30 01:42:08,643 basehttp 161 "GET /register/ HTTP/1.1" 200 5211
+INFO 2021-07-30 01:42:08,803 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:42:08,807 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:42:08,809 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:42:08,815 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:42:08,815 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:42:08,922 basehttp 161 "GET /static/img/image_code.png HTTP/1.1" 304 0
+INFO 2021-07-30 01:42:09,442 basehttp 161 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 0
+INFO 2021-07-30 01:44:07,722 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 01:44:08,816 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 01:44:37,261 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 01:44:38,287 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 01:44:51,765 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 01:44:53,040 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 01:46:36,038 basehttp 161 "GET /register/ HTTP/1.1" 200 5211
+INFO 2021-07-30 01:46:36,124 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:46:36,132 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:46:36,138 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:46:36,140 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:46:36,141 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:46:36,182 basehttp 161 "GET /static/img/image_code.png HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:51,168 basehttp 161 "GET /register/ HTTP/1.1" 200 5211
+INFO 2021-07-30 01:57:51,254 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:51,266 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:51,267 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:51,267 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:51,271 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 01:57:51,496 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 01:57:51,498 basehttp 75 - Broken pipe from ('127.0.0.1', 62928)
+
+INFO 2021-07-30 01:57:51,717 basehttp 161 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+INFO 2021-07-30 01:57:56,779 basehttp 161 "GET /register/ HTTP/1.1" 200 5211
+INFO 2021-07-30 01:57:56,854 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:56,854 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:56,855 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:56,862 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:56,866 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 01:57:56,893 basehttp 161 "GET /static/img/image_code.png HTTP/1.1" 304 0
+INFO 2021-07-30 02:23:11,228 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 02:23:12,475 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 02:23:19,787 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 02:23:20,858 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 02:23:48,290 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 02:23:49,598 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 02:27:27,221 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 02:27:28,236 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 02:27:48,259 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 02:27:49,404 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 02:28:12,560 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 02:28:13,755 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 02:30:02,416 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 02:30:11,367 log 224 Not Found: /
+WARNING 2021-07-30 02:30:11,369 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 02:30:11,514 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 02:30:11,516 basehttp 75 - Broken pipe from ('127.0.0.1', 63646)
+
+INFO 2021-07-30 02:30:23,406 basehttp 161 "GET /register/ HTTP/1.1" 200 5198
+INFO 2021-07-30 02:30:24,532 basehttp 75 - Broken pipe from ('127.0.0.1', 63648)
+
+INFO 2021-07-30 02:30:24,539 basehttp 75 - Broken pipe from ('127.0.0.1', 63650)
+
+INFO 2021-07-30 02:30:24,541 basehttp 75 - Broken pipe from ('127.0.0.1', 63649)
+
+ERROR 2021-07-30 02:30:25,895 log 224 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 559, in connect
+    sock = self._connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 615, in _connect
+    raise err
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\users\views.py", line 32, in get
+    redis_conn.setex('img:%s' % uuid, 300, text)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 1822, in setex
+    return self.execute_command('SETEX', name, time, value)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2021-07-30 02:30:25,903 basehttp 161 "GET /imagecode/?uuid=5143c5ca-f0b9-47cf-a429-aaa117af3c71 HTTP/1.1" 500 112363
+ERROR 2021-07-30 02:30:30,308 log 224 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 559, in connect
+    sock = self._connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 615, in _connect
+    raise err
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\users\views.py", line 32, in get
+    redis_conn.setex('img:%s' % uuid, 300, text)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 1822, in setex
+    return self.execute_command('SETEX', name, time, value)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2021-07-30 02:30:30,310 basehttp 161 "GET /imagecode/?uuid=5325aa60-7893-448d-9a64-8213675394cd HTTP/1.1" 500 112364
+INFO 2021-07-30 02:31:22,494 basehttp 161 "GET /register/ HTTP/1.1" 200 5198
+INFO 2021-07-30 02:31:22,591 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:31:22,600 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:31:22,601 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:31:22,606 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:31:22,607 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+ERROR 2021-07-30 02:31:24,861 log 224 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 559, in connect
+    sock = self._connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 615, in _connect
+    raise err
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\users\views.py", line 32, in get
+    redis_conn.setex('img:%s' % uuid, 300, text)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 1822, in setex
+    return self.execute_command('SETEX', name, time, value)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2021-07-30 02:31:24,864 basehttp 161 "GET /imagecode/?uuid=8f843652-b2ec-4f14-8496-f7195b16d42a HTTP/1.1" 500 112361
+ERROR 2021-07-30 02:31:30,280 log 224 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 559, in connect
+    sock = self._connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 615, in _connect
+    raise err
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\users\views.py", line 32, in get
+    redis_conn.setex('img:%s' % uuid, 300, text)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 1822, in setex
+    return self.execute_command('SETEX', name, time, value)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2021-07-30 02:31:30,283 basehttp 161 "GET /imagecode/?uuid=5413505b-4456-4eb8-a98f-f869e5829189 HTTP/1.1" 500 112356
+INFO 2021-07-30 02:32:45,644 basehttp 161 "GET /register/ HTTP/1.1" 200 5198
+INFO 2021-07-30 02:32:45,743 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:32:45,748 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:32:45,749 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:32:45,751 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:32:45,752 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+ERROR 2021-07-30 02:32:47,985 log 224 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 559, in connect
+    sock = self._connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 615, in _connect
+    raise err
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 603, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\djangoProject\creatBlog\users\views.py", line 32, in get
+    redis_conn.setex('img:%s' % uuid, 300, text)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 1822, in setex
+    return self.execute_command('SETEX', name, time, value)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "D:\djangoProject\creatBlog\venv\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2021-07-30 02:32:47,987 basehttp 161 "GET /imagecode/?uuid=ad30cf4a-f858-4267-beea-317cc0d40632 HTTP/1.1" 500 112374
+INFO 2021-07-30 02:36:44,562 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 02:36:44,650 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:36:44,653 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:36:44,670 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:36:44,670 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:36:44,671 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2021-07-30 02:36:44,677 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 02:36:44,678 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 02:36:46,165 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 02:36:46,254 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:36:46,254 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:36:46,255 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:36:46,255 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:36:46,255 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+WARNING 2021-07-30 02:36:46,271 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 02:36:46,272 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 02:40:38,168 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 02:40:38,258 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:40:38,272 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:40:38,273 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:40:38,274 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:40:38,279 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2021-07-30 02:40:38,291 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 02:40:38,292 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 02:40:38,389 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 02:40:38,390 basehttp 75 - Broken pipe from ('127.0.0.1', 63801)
+
+INFO 2021-07-30 02:40:39,480 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 02:40:39,565 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:40:39,567 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:40:39,568 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:40:39,569 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:40:39,569 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+WARNING 2021-07-30 02:40:39,587 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 02:40:39,588 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 02:42:36,495 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 02:42:36,576 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:42:36,592 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:42:36,592 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:42:36,593 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:42:36,596 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+WARNING 2021-07-30 02:42:36,610 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 02:42:36,612 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 02:42:36,644 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 02:42:36,646 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 02:57:12,901 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 02:57:17,163 log 224 Not Found: /
+WARNING 2021-07-30 02:57:17,164 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 02:57:17,309 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 02:57:17,311 basehttp 75 - Broken pipe from ('127.0.0.1', 64251)
+
+WARNING 2021-07-30 02:57:23,597 log 224 Not Found: /
+WARNING 2021-07-30 02:57:23,599 basehttp 161 "GET / HTTP/1.1" 404 2410
+INFO 2021-07-30 02:57:32,481 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2021-07-30 02:57:32,640 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 02:57:32,642 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 02:57:33,918 basehttp 75 - Broken pipe from ('127.0.0.1', 64267)
+
+INFO 2021-07-30 02:57:33,921 basehttp 75 - Broken pipe from ('127.0.0.1', 64266)
+
+INFO 2021-07-30 02:57:33,927 basehttp 75 - Broken pipe from ('127.0.0.1', 64262)
+
+INFO 2021-07-30 02:57:33,929 basehttp 75 - Broken pipe from ('127.0.0.1', 64268)
+
+INFO 2021-07-30 02:57:36,853 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 02:57:36,958 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:57:36,965 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:57:36,971 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:57:36,978 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 02:57:36,983 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 02:57:36,990 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 02:57:36,991 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 03:08:30,074 autoreload 251 D:\djangoProject\creatBlog\creatBlog\settings.py changed, reloading.
+INFO 2021-07-30 03:08:31,257 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 03:08:33,107 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 03:08:33,252 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:08:33,254 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:08:33,256 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 03:08:33,272 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 03:08:33,275 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 03:08:33,679 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-30 03:08:33,719 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 891
+WARNING 2021-07-30 03:08:33,761 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 03:08:33,762 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 03:08:33,783 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 03:08:33,785 basehttp 75 - Broken pipe from ('127.0.0.1', 64545)
+
+INFO 2021-07-30 03:09:11,551 basehttp 161 "GET /register/?uuid HTTP/1.1" 200 5197
+WARNING 2021-07-30 03:09:11,733 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 03:09:11,735 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 03:12:07,751 autoreload 251 D:\djangoProject\creatBlog\creatBlog\settings.py changed, reloading.
+INFO 2021-07-30 03:12:08,695 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 03:13:28,603 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 03:13:29,917 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 03:13:45,813 basehttp 161 "GET /register/?uuid HTTP/1.1" 200 5197
+INFO 2021-07-30 03:13:45,908 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:13:45,915 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:13:45,916 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:13:45,924 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:13:45,936 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+WARNING 2021-07-30 03:13:45,946 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 03:13:45,947 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 03:13:46,022 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 03:13:46,023 basehttp 75 - Broken pipe from ('127.0.0.1', 64625)
+
+INFO 2021-07-30 03:14:45,258 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 03:14:46,562 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 03:14:52,419 basehttp 161 "GET /register/?uuid HTTP/1.1" 200 5197
+INFO 2021-07-30 03:14:52,486 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:14:52,492 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:14:52,498 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:14:52,499 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:14:52,513 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+WARNING 2021-07-30 03:14:52,528 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 03:14:52,529 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 03:14:52,605 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 03:14:52,607 basehttp 75 - Broken pipe from ('127.0.0.1', 64640)
+
+INFO 2021-07-30 03:14:53,676 basehttp 161 "GET /register/?uuid HTTP/1.1" 200 5197
+INFO 2021-07-30 03:14:53,768 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:14:53,769 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:14:53,769 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:14:53,769 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 03:14:53,769 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2021-07-30 03:14:53,779 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 03:14:53,780 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 03:14:53,802 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 03:14:53,803 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 10:07:15,468 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 10:07:16,482 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 10:08:24,738 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 10:08:42,215 log 224 Not Found: /
+WARNING 2021-07-30 10:08:42,216 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 10:08:42,362 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 10:08:42,363 basehttp 75 - Broken pipe from ('127.0.0.1', 64901)
+
+INFO 2021-07-30 10:08:50,566 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2021-07-30 10:08:50,689 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:08:50,690 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:08:50,713 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:08:50,714 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:08:50,754 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 10:08:50,755 basehttp 75 - Broken pipe from ('127.0.0.1', 64907)
+
+INFO 2021-07-30 10:08:51,007 basehttp 75 - Broken pipe from ('127.0.0.1', 64905)
+
+INFO 2021-07-30 10:16:13,622 basehttp 161 "GET /register/?uuid HTTP/1.1" 200 5197
+INFO 2021-07-30 10:16:13,724 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:13,743 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:13,745 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-30 10:16:13,748 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 891
+WARNING 2021-07-30 10:16:13,752 log 224 Not Found: /register/image_code_url
+INFO 2021-07-30 10:16:13,754 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 10:16:13,755 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:16:13,784 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:16:13,785 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:16:13,849 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 10:16:13,850 basehttp 75 - Broken pipe from ('127.0.0.1', 65123)
+
+INFO 2021-07-30 10:16:15,089 basehttp 161 "GET /register/?uuid HTTP/1.1" 200 5197
+INFO 2021-07-30 10:16:15,159 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:15,160 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:15,175 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:15,175 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:15,176 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+WARNING 2021-07-30 10:16:15,181 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:16:15,182 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:16:15,291 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:16:15,292 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 10:16:24,721 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2021-07-30 10:16:24,811 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:16:24,812 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:16:24,871 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 10:16:24,872 basehttp 75 - Broken pipe from ('127.0.0.1', 65122)
+
+INFO 2021-07-30 10:16:47,772 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 10:16:47,873 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:47,884 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:47,885 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:47,885 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 10:16:47,888 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 10:16:47,910 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:16:47,911 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:16:48,069 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:16:48,071 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:16:48,227 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 10:16:48,229 basehttp 75 - Broken pipe from ('127.0.0.1', 65121)
+
+WARNING 2021-07-30 10:18:56,869 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:18:56,870 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:19:32,563 log 224 Not Found: /register/imagecode
+WARNING 2021-07-30 10:19:32,563 basehttp 161 "GET /register/imagecode HTTP/1.1" 404 2482
+WARNING 2021-07-30 10:19:38,264 log 224 Not Found: /register/imagecode/
+WARNING 2021-07-30 10:19:38,265 basehttp 161 "GET /register/imagecode/ HTTP/1.1" 404 2485
+WARNING 2021-07-30 10:19:57,562 log 224 Bad Request: /imagecode/
+WARNING 2021-07-30 10:19:57,562 basehttp 161 "GET /imagecode/ HTTP/1.1" 400 18
+INFO 2021-07-30 10:24:06,832 autoreload 251 D:\djangoProject\creatBlog\creatBlog\settings.py changed, reloading.
+INFO 2021-07-30 10:27:11,248 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 10:27:25,105 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 10:27:29,490 log 224 Not Found: /
+WARNING 2021-07-30 10:27:29,491 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 10:27:29,619 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 10:27:29,621 basehttp 75 - Broken pipe from ('127.0.0.1', 65297)
+
+INFO 2021-07-30 10:27:40,181 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2021-07-30 10:27:40,294 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 10:27:40,295 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 10:27:40,355 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 10:27:40,356 basehttp 75 - Broken pipe from ('127.0.0.1', 65300)
+
+INFO 2021-07-30 10:27:40,618 basehttp 75 - Broken pipe from ('127.0.0.1', 65299)
+
+INFO 2021-07-30 13:17:51,405 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 13:17:58,360 log 224 Not Found: /
+WARNING 2021-07-30 13:17:58,360 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 13:17:58,730 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 13:17:58,730 basehttp 75 - Broken pipe from ('127.0.0.1', 50041)
+
+INFO 2021-07-30 13:18:10,559 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2021-07-30 13:18:10,655 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:18:10,671 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 13:18:11,250 basehttp 75 - Broken pipe from ('127.0.0.1', 50079)
+
+INFO 2021-07-30 13:18:11,250 basehttp 75 - Broken pipe from ('127.0.0.1', 50080)
+
+INFO 2021-07-30 13:18:11,250 basehttp 75 - Broken pipe from ('127.0.0.1', 50078)
+
+INFO 2021-07-30 13:27:05,971 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 13:27:13,082 log 224 Not Found: /
+WARNING 2021-07-30 13:27:13,082 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 13:27:13,298 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 13:27:13,298 basehttp 75 - Broken pipe from ('127.0.0.1', 49999)
+
+INFO 2021-07-30 13:27:21,252 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2021-07-30 13:27:21,317 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:27:21,317 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 13:27:21,402 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:27:21,402 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 13:27:21,718 basehttp 75 - Broken pipe from ('127.0.0.1', 50024)
+
+INFO 2021-07-30 13:27:21,718 basehttp 75 - Broken pipe from ('127.0.0.1', 50023)
+
+INFO 2021-07-30 13:27:21,718 basehttp 75 - Broken pipe from ('127.0.0.1', 50025)
+
+INFO 2021-07-30 13:27:25,680 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 13:27:25,695 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:27:25,711 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:27:25,711 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:27:25,711 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:27:25,711 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 13:27:25,711 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:27:25,711 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 13:29:51,196 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 13:29:51,243 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:29:51,243 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:29:51,243 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:29:51,243 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:29:51,243 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 13:29:51,259 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:29:51,259 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 13:29:51,312 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:29:51,312 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 13:30:38,346 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 13:30:38,393 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:30:38,393 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:30:38,393 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:30:38,393 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:30:38,393 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 13:30:38,393 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:30:38,393 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 13:30:38,446 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:30:38,446 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 13:31:06,117 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:31:06,118 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497

@@ -15,7 +15,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.contrib import admin
+from django.urls import path,include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+# include 参数1要设置为元组（urlconf_module, app_name）
+    # namespace 设置命名空间
+    path('', include(('users.urls', 'users'), namespace='users')),
+
 ]
+
