@@ -760,3 +760,517 @@ WARNING 2021-07-30 13:30:38,446 log 224 Not Found: /register/image_code_url
 WARNING 2021-07-30 13:30:38,446 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
 WARNING 2021-07-30 13:31:06,117 log 224 Not Found: /register/image_code_url
 WARNING 2021-07-30 13:31:06,118 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 13:49:14,070 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 13:49:16,730 log 224 Not Found: /
+WARNING 2021-07-30 13:49:16,730 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 13:49:21,704 log 224 Not Found: /
+WARNING 2021-07-30 13:49:21,704 basehttp 161 "GET / HTTP/1.1" 404 2410
+INFO 2021-07-30 13:49:30,196 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2021-07-30 13:49:30,265 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:49:30,265 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 13:49:30,428 basehttp 75 - Broken pipe from ('127.0.0.1', 50731)
+
+INFO 2021-07-30 13:49:35,693 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 13:49:35,725 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:49:35,725 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:49:35,725 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:49:35,740 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:49:35,740 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 13:49:35,740 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:49:35,740 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 13:50:00,445 log 224 Not Found: /register/imagecode/
+WARNING 2021-07-30 13:50:00,445 basehttp 161 "GET /register/imagecode/?uuid HTTP/1.1" 404 2490
+INFO 2021-07-30 13:50:17,907 basehttp 161 "GET /imagecode/?uuid HTTP/1.1" 200 3250
+INFO 2021-07-30 13:50:29,170 basehttp 161 "GET /imagecode HTTP/1.1" 301 0
+WARNING 2021-07-30 13:50:29,186 log 224 Bad Request: /imagecode/
+WARNING 2021-07-30 13:50:29,186 basehttp 161 "GET /imagecode/ HTTP/1.1" 400 18
+INFO 2021-07-30 13:54:27,168 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 13:54:27,200 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:54:27,204 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:54:27,204 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:54:27,208 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:54:27,208 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 13:54:27,216 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:54:27,216 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 13:54:35,830 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 13:54:35,874 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:54:35,878 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:54:35,878 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:54:35,878 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 13:54:35,882 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 13:54:35,886 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:54:35,886 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 13:54:35,926 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 13:54:35,926 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 13:56:00,806 log 224 Not Found: /favicon.ico
+WARNING 2021-07-30 13:56:00,806 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2461
+INFO 2021-07-30 14:10:01,789 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 14:13:13,232 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 14:13:13,279 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:13:13,279 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:13:13,279 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:13:13,279 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:13:13,294 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 14:13:13,294 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 14:13:13,301 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 14:13:13,404 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 14:13:13,404 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 14:13:13,564 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:13:13,564 basehttp 75 - Broken pipe from ('127.0.0.1', 51644)
+
+INFO 2021-07-30 14:14:36,672 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 14:14:37,359 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 14:14:49,561 log 224 Bad Request: /imagecode/
+WARNING 2021-07-30 14:14:49,561 basehttp 161 "GET /imagecode/ HTTP/1.1" 400 18
+INFO 2021-07-30 14:15:34,862 basehttp 161 "GET /imagecode/?uuid HTTP/1.1" 200 3125
+INFO 2021-07-30 14:22:32,690 basehttp 161 "GET /register/ HTTP/1.1" 200 5213
+INFO 2021-07-30 14:22:32,739 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:22:32,739 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:22:32,739 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 14:22:32,755 log 224 Not Found: /register/127.0.0.1:8000/imagecode/
+WARNING 2021-07-30 14:22:32,755 basehttp 161 "GET /register/127.0.0.1:8000/imagecode/?uuid HTTP/1.1" 404 2535
+INFO 2021-07-30 14:22:33,021 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-30 14:22:33,021 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 891
+WARNING 2021-07-30 14:22:33,060 log 224 Not Found: /register/127.0.0.1:8000/imagecode/
+WARNING 2021-07-30 14:22:33,060 basehttp 161 "GET /register/127.0.0.1:8000/imagecode/?uuid HTTP/1.1" 404 2535
+WARNING 2021-07-30 14:22:33,074 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:22:33,074 basehttp 75 - Broken pipe from ('127.0.0.1', 51835)
+
+INFO 2021-07-30 14:22:34,424 basehttp 161 "GET /register/ HTTP/1.1" 200 5213
+INFO 2021-07-30 14:22:34,456 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:22:34,456 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:22:34,456 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:22:34,456 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:22:34,456 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 14:22:34,456 log 224 Not Found: /register/127.0.0.1:8000/imagecode/
+WARNING 2021-07-30 14:22:34,456 basehttp 161 "GET /register/127.0.0.1:8000/imagecode/?uuid HTTP/1.1" 404 2535
+WARNING 2021-07-30 14:22:34,478 log 224 Not Found: /register/127.0.0.1:8000/imagecode/
+WARNING 2021-07-30 14:22:34,478 basehttp 161 "GET /register/127.0.0.1:8000/imagecode/?uuid HTTP/1.1" 404 2535
+WARNING 2021-07-30 14:22:34,509 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:22:34,509 basehttp 75 - Broken pipe from ('127.0.0.1', 51834)
+
+INFO 2021-07-30 14:24:25,008 basehttp 161 "GET /imagecode/?uuid HTTP/1.1" 200 2955
+WARNING 2021-07-30 14:24:25,678 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:24:25,678 basehttp 75 - Broken pipe from ('127.0.0.1', 51836)
+
+WARNING 2021-07-30 14:24:33,331 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:24:33,331 basehttp 75 - Broken pipe from ('127.0.0.1', 51832)
+
+INFO 2021-07-30 14:24:35,657 basehttp 161 "GET /register/ HTTP/1.1" 200 5213
+INFO 2021-07-30 14:24:35,689 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:24:35,704 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:24:35,704 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:24:35,704 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:24:35,704 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 14:24:35,704 log 224 Not Found: /register/127.0.0.1:8000/imagecode/
+WARNING 2021-07-30 14:24:35,704 basehttp 161 "GET /register/127.0.0.1:8000/imagecode/?uuid HTTP/1.1" 404 2535
+WARNING 2021-07-30 14:24:35,758 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:24:35,758 basehttp 75 - Broken pipe from ('127.0.0.1', 51866)
+
+INFO 2021-07-30 14:28:52,571 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 14:28:52,609 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:28:52,609 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:28:52,609 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:28:52,624 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:28:52,624 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 14:28:52,624 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 14:28:52,624 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 14:28:52,672 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:28:52,672 basehttp 75 - Broken pipe from ('127.0.0.1', 51922)
+
+INFO 2021-07-30 14:28:54,459 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 14:28:54,497 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:28:54,497 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:28:54,497 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:28:54,497 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:28:54,497 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 14:28:54,513 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 14:28:54,513 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 14:28:54,544 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:28:54,544 basehttp 75 - Broken pipe from ('127.0.0.1', 51924)
+
+WARNING 2021-07-30 14:29:02,595 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 14:29:02,595 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 14:30:13,838 basehttp 161 "GET /register/ HTTP/1.1" 200 5198
+INFO 2021-07-30 14:30:13,875 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:30:13,875 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:30:13,875 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:30:13,891 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 14:30:13,891 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 14:30:13,891 log 224 Not Found: /register/imagecode/
+WARNING 2021-07-30 14:30:13,891 basehttp 161 "GET /register/imagecode/?uuid HTTP/1.1" 404 2490
+WARNING 2021-07-30 14:30:13,938 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:30:13,938 basehttp 75 - Broken pipe from ('127.0.0.1', 51952)
+
+WARNING 2021-07-30 14:30:16,126 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 14:30:16,126 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 14:30:16,158 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:30:16,158 basehttp 75 - Broken pipe from ('127.0.0.1', 51953)
+
+WARNING 2021-07-30 14:30:21,756 log 224 Not Found: /register/imagecode/
+WARNING 2021-07-30 14:30:21,756 basehttp 161 "GET /register/imagecode/?uuid HTTP/1.1" 404 2490
+INFO 2021-07-30 14:33:04,542 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 14:33:05,183 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 14:59:06,496 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 14:59:09,657 log 224 Not Found: /
+WARNING 2021-07-30 14:59:09,657 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 14:59:09,719 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:59:09,719 basehttp 75 - Broken pipe from ('127.0.0.1', 52877)
+
+INFO 2021-07-30 14:59:15,501 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2021-07-30 14:59:15,554 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 14:59:15,554 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 14:59:15,618 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 14:59:15,618 basehttp 75 - Broken pipe from ('127.0.0.1', 52881)
+
+INFO 2021-07-30 14:59:15,732 basehttp 75 - Broken pipe from ('127.0.0.1', 52880)
+
+INFO 2021-07-30 15:00:48,518 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 15:00:48,588 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:48,588 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:48,599 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:48,610 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:48,610 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 15:00:48,610 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 15:00:48,618 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 15:00:48,674 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:00:48,674 basehttp 75 - Broken pipe from ('127.0.0.1', 52920)
+
+INFO 2021-07-30 15:00:50,903 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 15:00:50,967 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:50,967 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:50,978 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:50,978 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:50,989 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 15:00:50,989 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 15:00:50,989 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 15:00:51,927 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 15:00:51,991 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:51,991 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:51,991 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:51,991 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:51,991 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2021-07-30 15:00:52,002 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 15:00:52,013 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 15:00:52,077 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:00:52,077 basehttp 75 - Broken pipe from ('127.0.0.1', 52921)
+
+INFO 2021-07-30 15:00:52,653 basehttp 161 "GET /register/ HTTP/1.1" 200 5197
+INFO 2021-07-30 15:00:52,720 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:52,720 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:52,732 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:52,738 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:00:52,738 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2021-07-30 15:00:52,738 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 15:00:52,738 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 15:02:08,492 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 15:02:09,147 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:02:44,676 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 15:02:45,278 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:04:02,434 basehttp 161 "GET /register/ HTTP/1.1" 200 5339
+INFO 2021-07-30 15:04:02,465 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:04:02,465 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:04:02,465 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:04:02,481 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:04:02,481 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+WARNING 2021-07-30 15:04:02,481 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 15:04:02,481 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 15:04:02,512 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:04:02,528 basehttp 75 - Broken pipe from ('127.0.0.1', 52969)
+
+INFO 2021-07-30 15:04:04,935 basehttp 161 "GET /register/ HTTP/1.1" 200 5339
+INFO 2021-07-30 15:04:04,955 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:04:04,955 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:04:04,955 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:04:04,955 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:04:04,955 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2021-07-30 15:04:04,971 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 15:04:04,971 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+WARNING 2021-07-30 15:04:05,002 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:04:05,018 basehttp 75 - Broken pipe from ('127.0.0.1', 52966)
+
+WARNING 2021-07-30 15:04:26,640 log 224 Not Found: /register/image_code_url
+WARNING 2021-07-30 15:04:26,640 basehttp 161 "GET /register/image_code_url HTTP/1.1" 404 2497
+INFO 2021-07-30 15:04:48,983 basehttp 161 "GET /imagecode/?uuid HTTP/1.1" 200 2851
+WARNING 2021-07-30 15:04:49,637 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:04:49,637 basehttp 75 - Broken pipe from ('127.0.0.1', 52970)
+
+WARNING 2021-07-30 15:05:13,663 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:05:13,663 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=Z7BX&uuid=cc61728c-95e4-4ee4-8a7b-25e56950e8f0 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:05:18,528 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:05:18,528 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=Z7BX&uuid=cc61728c-95e4-4ee4-8a7b-25e56950e8f0 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:05:36,413 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:05:36,413 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=Z7BX&uuid=cc61728c-95e4-4ee4-8a7b-25e56950e8f0 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:05:38,617 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:05:38,617 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=Z7BX&uuid=cc61728c-95e4-4ee4-8a7b-25e56950e8f0 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:07:37,898 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:07:37,898 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=Z7BX&uuid=cc61728c-95e4-4ee4-8a7b-25e56950e8f0 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:07:43,582 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:07:43,582 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=Z7BX&uuid=cc61728c-95e4-4ee4-8a7b-25e56950e8f0 HTTP/1.1" 404 2537
+INFO 2021-07-30 15:09:19,820 basehttp 161 "GET /register/ HTTP/1.1" 200 5362
+INFO 2021-07-30 15:09:19,851 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:19,851 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:19,867 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:19,867 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:19,867 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:19,889 basehttp 161 "GET /imagecode/?uuid HTTP/1.1" 200 3301
+WARNING 2021-07-30 15:09:19,904 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:09:19,904 basehttp 75 - Broken pipe from ('127.0.0.1', 53021)
+
+INFO 2021-07-30 15:09:41,959 basehttp 161 "GET /register/ HTTP/1.1" 200 5355
+INFO 2021-07-30 15:09:41,997 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:41,997 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:41,997 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:41,997 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:41,997 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+WARNING 2021-07-30 15:09:41,997 log 224 Not Found: /register/127.0.0.1:8000/imagecode/
+WARNING 2021-07-30 15:09:41,997 basehttp 161 "GET /register/127.0.0.1:8000/imagecode/?uuid HTTP/1.1" 404 2535
+WARNING 2021-07-30 15:09:42,044 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:09:42,044 basehttp 75 - Broken pipe from ('127.0.0.1', 53018)
+
+INFO 2021-07-30 15:09:49,430 basehttp 161 "GET /register/ HTTP/1.1" 200 5362
+INFO 2021-07-30 15:09:49,461 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:49,461 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:49,461 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:49,461 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:49,461 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:49,493 basehttp 161 "GET /imagecode/?uuid HTTP/1.1" 200 2841
+WARNING 2021-07-30 15:09:49,515 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:09:49,515 basehttp 75 - Broken pipe from ('127.0.0.1', 53022)
+
+INFO 2021-07-30 15:09:51,953 basehttp 161 "GET /register/ HTTP/1.1" 200 5362
+INFO 2021-07-30 15:09:51,984 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:51,984 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:51,984 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:51,984 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:51,984 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 15:09:52,023 basehttp 161 "GET /imagecode/?uuid HTTP/1.1" 200 2821
+WARNING 2021-07-30 15:09:52,038 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:09:52,038 basehttp 75 - Broken pipe from ('127.0.0.1', 53020)
+
+WARNING 2021-07-30 15:11:06,046 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:11:06,046 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=TDI6&uuid=41059215-cf4c-4cad-a7ba-3ad5d7a41b97 HTTP/1.1" 404 2537
+INFO 2021-07-30 15:13:44,315 autoreload 251 D:\djangoProject\creatBlog\libs\yuntongxun\sms.py changed, reloading.
+INFO 2021-07-30 15:13:44,969 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 15:16:05,942 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:16:05,942 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=TDI6&uuid=41059215-cf4c-4cad-a7ba-3ad5d7a41b97 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:16:07,616 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:16:07,616 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=TDI6&uuid=41059215-cf4c-4cad-a7ba-3ad5d7a41b97 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:16:08,048 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:16:08,048 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=TDI6&uuid=41059215-cf4c-4cad-a7ba-3ad5d7a41b97 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:16:08,233 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:16:08,233 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=TDI6&uuid=41059215-cf4c-4cad-a7ba-3ad5d7a41b97 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:16:08,418 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:16:08,418 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=TDI6&uuid=41059215-cf4c-4cad-a7ba-3ad5d7a41b97 HTTP/1.1" 404 2537
+INFO 2021-07-30 15:16:28,838 autoreload 251 D:\djangoProject\creatBlog\libs\yuntongxun\sms.py changed, reloading.
+INFO 2021-07-30 15:16:29,508 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:22:07,942 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:26:20,130 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:30:38,528 autoreload 251 D:\djangoProject\creatBlog\venv\Lib\site-packages\django\apps\registry.py changed, reloading.
+INFO 2021-07-30 15:32:11,278 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 15:34:35,722 log 224 Not Found: /
+WARNING 2021-07-30 15:34:35,722 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 15:34:35,807 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:34:35,807 basehttp 75 - Broken pipe from ('127.0.0.1', 53833)
+
+INFO 2021-07-30 15:34:48,124 basehttp 161 "GET /register/ HTTP/1.1" 200 5362
+INFO 2021-07-30 15:34:48,272 basehttp 161 "GET /imagecode/?uuid HTTP/1.1" 200 3390
+WARNING 2021-07-30 15:34:48,287 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 15:34:48,287 basehttp 75 - Broken pipe from ('127.0.0.1', 53848)
+
+INFO 2021-07-30 15:34:48,773 basehttp 75 - Broken pipe from ('127.0.0.1', 53850)
+
+INFO 2021-07-30 15:34:48,773 basehttp 75 - Broken pipe from ('127.0.0.1', 53849)
+
+INFO 2021-07-30 15:34:48,773 basehttp 75 - Broken pipe from ('127.0.0.1', 53847)
+
+WARNING 2021-07-30 15:35:21,898 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:35:21,898 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=OJSP&uuid=4ebc0347-ac11-4c02-b4e0-26e884c5d1c6 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:35:24,268 log 224 Not Found: /smscode/
+WARNING 2021-07-30 15:35:24,268 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=OJSP&uuid=4ebc0347-ac11-4c02-b4e0-26e884c5d1c6 HTTP/1.1" 404 2537
+WARNING 2021-07-30 15:37:03,711 log 224 Not Found: /sms_code/18226779227/
+WARNING 2021-07-30 15:37:03,711 basehttp 161 "GET /sms_code/18226779227/ HTTP/1.1" 404 2491
+INFO 2021-07-30 15:54:17,777 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 15:54:18,737 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:54:54,358 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 15:54:55,522 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:55:13,254 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 15:55:14,287 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:56:32,404 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 15:56:33,475 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 15:58:30,144 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 15:58:31,321 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 16:00:42,632 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 16:00:48,808 log 224 Not Found: /
+WARNING 2021-07-30 16:00:48,808 basehttp 161 "GET / HTTP/1.1" 404 2410
+WARNING 2021-07-30 16:00:48,895 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 16:00:48,895 basehttp 75 - Broken pipe from ('127.0.0.1', 54209)
+
+INFO 2021-07-30 16:00:56,189 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-30 16:00:56,445 basehttp 161 "GET /imagecode/?uuid=ea304ada-958c-410c-83ca-580eff052721 HTTP/1.1" 200 3083
+INFO 2021-07-30 16:00:56,733 basehttp 75 - Broken pipe from ('127.0.0.1', 54211)
+
+INFO 2021-07-30 16:00:58,503 basehttp 161 "GET /imagecode/?uuid=5bcc0809-0622-4f5b-954d-28ba11d58645 HTTP/1.1" 200 3099
+INFO 2021-07-30 16:00:59,303 basehttp 161 "GET /imagecode/?uuid=f835684b-4a45-4617-b3d1-e6a52948ac19 HTTP/1.1" 200 3141
+INFO 2021-07-30 16:01:03,154 basehttp 161 "GET /imagecode/?uuid=7034ea01-76b1-4f16-b3dc-a767f61972d4 HTTP/1.1" 200 3124
+INFO 2021-07-30 16:01:04,114 basehttp 161 "GET /imagecode/?uuid=7afbd26f-a3a9-4620-8fdf-01634574667a HTTP/1.1" 200 3300
+WARNING 2021-07-30 16:01:27,784 log 224 Not Found: /smscode/
+WARNING 2021-07-30 16:01:27,784 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=ZQDV&uuid=7afbd26f-a3a9-4620-8fdf-01634574667a HTTP/1.1" 404 2537
+WARNING 2021-07-30 16:01:32,307 log 224 Not Found: /smscode/
+WARNING 2021-07-30 16:01:32,307 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=ZQDV&uuid=7afbd26f-a3a9-4620-8fdf-01634574667a HTTP/1.1" 404 2537
+WARNING 2021-07-30 16:01:34,354 log 224 Not Found: /smscode/
+WARNING 2021-07-30 16:01:34,354 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=ZQDV&uuid=7afbd26f-a3a9-4620-8fdf-01634574667a HTTP/1.1" 404 2537
+WARNING 2021-07-30 16:01:34,930 log 224 Not Found: /smscode/
+WARNING 2021-07-30 16:01:34,930 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=ZQDV&uuid=7afbd26f-a3a9-4620-8fdf-01634574667a HTTP/1.1" 404 2537
+WARNING 2021-07-30 16:01:37,426 log 224 Not Found: /smscode/
+WARNING 2021-07-30 16:01:37,426 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=ZQDV&uuid=7afbd26f-a3a9-4620-8fdf-01634574667a HTTP/1.1" 404 2537
+INFO 2021-07-30 16:35:15,670 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 16:35:16,757 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 16:50:01,489 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 16:50:02,575 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 16:51:16,475 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 16:51:17,409 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 16:53:21,884 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 16:53:22,913 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 16:57:32,911 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 16:57:33,635 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:02:04,428 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 17:02:05,429 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:02:52,806 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 17:02:53,954 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:05:08,336 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 17:05:09,342 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:05:11,047 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-30 17:05:11,124 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:05:11,137 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:05:11,141 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:05:11,840 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-30 17:05:11,840 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-30 17:05:11,956 basehttp 161 "GET /imagecode/?uuid=21550263-a490-4f69-96e2-920fb7a16ef7 HTTP/1.1" 200 3322
+WARNING 2021-07-30 17:05:11,986 log 224 Not Found: /favicon.ico
+INFO 2021-07-30 17:05:11,988 basehttp 75 - Broken pipe from ('127.0.0.1', 54942)
+
+INFO 2021-07-30 17:05:14,329 basehttp 161 "GET /imagecode/?uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 200 3298
+WARNING 2021-07-30 17:05:34,457 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:05:34,458 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:05:36,879 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:05:36,880 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:05:38,466 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:05:38,467 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:05:39,908 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:05:39,908 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:05:40,558 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:05:40,563 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:05:41,822 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:05:41,828 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:05:43,374 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:05:43,374 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:05:44,548 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:05:44,548 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:07:31,752 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:07:31,759 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=BTOH&uuid=e673aa1e-f15b-4664-b060-4ec11eca5842 HTTP/1.1" 404 2537
+INFO 2021-07-30 17:07:35,460 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-30 17:07:35,555 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:07:35,566 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:07:35,566 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:07:35,577 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:07:35,577 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:07:35,812 basehttp 161 "GET /imagecode/?uuid=89227885-7af7-4e45-b161-8bc7f03fea30 HTTP/1.1" 200 3407
+INFO 2021-07-30 17:08:09,369 basehttp 161 "GET /imagecode/?uuid=df94f964-9f52-48d4-922c-e794b99963e1 HTTP/1.1" 200 3224
+WARNING 2021-07-30 17:08:18,905 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:08:18,905 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=5DBG&uuid=df94f964-9f52-48d4-922c-e794b99963e1 HTTP/1.1" 404 2537
+WARNING 2021-07-30 17:08:21,988 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:08:21,988 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=5DBG&uuid=df94f964-9f52-48d4-922c-e794b99963e1 HTTP/1.1" 404 2537
+INFO 2021-07-30 17:25:05,999 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 17:25:06,900 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 17:25:16,687 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:25:16,687 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=5DBG&uuid=df94f964-9f52-48d4-922c-e794b99963e1 HTTP/1.1" 404 2537
+INFO 2021-07-30 17:28:22,805 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 17:28:23,969 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:30:22,355 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 17:30:23,625 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:31:07,736 autoreload 251 D:\djangoProject\creatBlog\users\views.py changed, reloading.
+INFO 2021-07-30 17:31:08,701 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:32:23,010 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-30 17:32:23,121 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:32:23,127 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:32:23,127 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:32:23,832 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-30 17:32:23,842 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-30 17:32:23,949 basehttp 161 "GET /imagecode/?uuid=69985fc9-0866-4744-8852-3a585e1f16d8 HTTP/1.1" 200 3130
+INFO 2021-07-30 17:33:34,618 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-30 17:33:39,235 log 224 Not Found: /
+WARNING 2021-07-30 17:33:39,235 basehttp 161 "GET / HTTP/1.1" 404 2410
+INFO 2021-07-30 17:34:00,173 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-30 17:34:00,387 basehttp 161 "GET /imagecode/?uuid=a209729b-bf3d-4ad4-87a5-de5ae53dc750 HTTP/1.1" 200 2905
+INFO 2021-07-30 17:34:00,579 basehttp 75 - Broken pipe from ('127.0.0.1', 55272)
+
+INFO 2021-07-30 17:35:24,132 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 17:35:25,293 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:36:17,796 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 17:36:18,892 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:36:19,447 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-30 17:36:19,516 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:36:19,531 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:36:19,531 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:36:19,531 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:36:19,531 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:36:19,647 basehttp 161 "GET /imagecode/?uuid=2a18ceff-2fb2-4c3e-9f30-dedd0c0357ff HTTP/1.1" 200 2868
+INFO 2021-07-30 17:36:38,654 basehttp 161 "GET /imagecode/?uuid=232b0ad4-6052-4162-bb38-f78ed5a88e6f HTTP/1.1" 200 3164
+WARNING 2021-07-30 17:36:52,110 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:36:52,110 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=06B5&uuid=232b0ad4-6052-4162-bb38-f78ed5a88e6f HTTP/1.1" 404 2710
+INFO 2021-07-30 17:37:40,227 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-30 17:37:40,344 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:37:40,344 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:37:40,344 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:37:40,344 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:37:40,344 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:37:40,525 basehttp 161 "GET /imagecode/?uuid=ca9a54c4-8cd4-405e-a69d-2f9c3ef8f6e4 HTTP/1.1" 200 3772
+WARNING 2021-07-30 17:38:26,669 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:38:26,674 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=GIUW&uuid=ca9a54c4-8cd4-405e-a69d-2f9c3ef8f6e4 HTTP/1.1" 404 2710
+WARNING 2021-07-30 17:38:30,893 log 224 Not Found: /smscode/
+WARNING 2021-07-30 17:38:30,893 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=GIUW&uuid=ca9a54c4-8cd4-405e-a69d-2f9c3ef8f6e4 HTTP/1.1" 404 2710
+INFO 2021-07-30 17:39:06,986 autoreload 251 D:\djangoProject\creatBlog\users\urls.py changed, reloading.
+INFO 2021-07-30 17:39:08,042 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-30 17:39:08,522 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-30 17:39:08,650 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:39:08,661 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:39:08,661 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-30 17:39:09,162 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-30 17:39:09,162 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-07-30 17:39:09,258 basehttp 161 "GET /imagecode/?uuid=673bc444-06e3-4992-943f-d870fad9256f HTTP/1.1" 200 3582
+INFO 2021-07-30 17:39:29,160 views 113 435375
+WARNING 2021-07-30 17:39:46,342 basehttp 161 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2021-07-30 17:39:50,364 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=CQMW&uuid=673bc444-06e3-4992-943f-d870fad9256f HTTP/1.1" 200 63
+INFO 2021-07-31 02:07:55,011 autoreload 251 D:\djangoProject\creatBlog\creatBlog\settings.py changed, reloading.
+INFO 2021-07-31 02:07:55,914 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-31 02:10:01,344 log 224 Not Found: /
+WARNING 2021-07-31 02:10:01,345 basehttp 161 "GET / HTTP/1.1" 404 2581
+WARNING 2021-07-31 02:10:01,439 log 224 Not Found: /favicon.ico
+INFO 2021-07-31 02:10:01,440 basehttp 75 - Broken pipe from ('127.0.0.1', 60401)
+
+INFO 2021-07-31 02:10:11,049 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-31 02:10:11,225 basehttp 161 "GET /imagecode/?uuid=44b5cac1-5020-4496-8d0f-5966418e8630 HTTP/1.1" 200 3015
+INFO 2021-07-31 02:10:11,578 basehttp 75 - Broken pipe from ('127.0.0.1', 60406)
+
+INFO 2021-07-31 02:10:11,578 basehttp 75 - Broken pipe from ('127.0.0.1', 60407)
+
+INFO 2021-07-31 02:10:11,578 basehttp 75 - Broken pipe from ('127.0.0.1', 60405)
+
+INFO 2021-07-31 02:10:30,606 basehttp 161 "GET /imagecode/?uuid=90a23e72-29a6-4644-b529-d7a3f00d8452 HTTP/1.1" 200 2888
+INFO 2021-07-31 02:10:39,813 views 113 602304
+INFO 2021-07-31 02:10:59,198 basehttp 161 "GET /imagecode/?uuid=53709657-71b5-4048-be2f-fca982dfedf9 HTTP/1.1" 200 3067
+INFO 2021-07-31 02:11:01,119 basehttp 161 "GET /smscode/?mobile=18226779227&image_code=YS5F&uuid=90a23e72-29a6-4644-b529-d7a3f00d8452 HTTP/1.1" 200 63
+INFO 2021-07-31 02:11:19,128 basehttp 161 "GET /imagecode/?uuid=cae28989-6a97-4b65-8213-93acec409f5d HTTP/1.1" 200 3060
+INFO 2021-07-31 02:12:11,267 views 113 549100
+INFO 2021-07-31 02:12:22,510 basehttp 161 "POST /register/ HTTP/1.1" 200 33
+INFO 2021-07-31 02:12:32,370 basehttp 75 - Broken pipe from ('127.0.0.1', 60411)
+
+WARNING 2021-07-31 02:14:15,404 log 224 Bad Request: /register/
+WARNING 2021-07-31 02:14:15,405 basehttp 161 "POST /register/ HTTP/1.1" 400 12
+WARNING 2021-07-31 02:14:19,147 log 224 Bad Request: /register/
+WARNING 2021-07-31 02:14:19,148 basehttp 161 "POST /register/ HTTP/1.1" 400 12
+INFO 2021-07-31 02:14:19,818 basehttp 161 "GET /register/ HTTP/1.1" 200 5340
+INFO 2021-07-31 02:14:19,971 basehttp 161 "GET /imagecode/?uuid=e8824cc8-5270-455f-aceb-6c6dfc67b344 HTTP/1.1" 200 3402
+INFO 2021-07-31 02:19:20,215 autoreload 251 D:\djangoProject\creatBlog\creatBlog\urls.py changed, reloading.
+INFO 2021-07-31 02:19:21,108 autoreload 637 Watching for file changes with StatReloader

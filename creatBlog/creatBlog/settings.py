@@ -95,8 +95,8 @@ SESSION_CACHE_ALIAS = "session"
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.sqlite3',#数据库引擎
+        'NAME': BASE_DIR / 'db.sqlite3',#数据库名字
     }
 }
 
