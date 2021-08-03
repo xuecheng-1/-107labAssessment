@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 from pathlib import Path
-
+import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'users.apps.UsersConfig',
+    'home.apps.HomeConfig',
+
 ]
 
 MIDDLEWARE = [
@@ -95,8 +97,12 @@ SESSION_CACHE_ALIAS = "session"
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',#数据库引擎
-        'NAME': BASE_DIR / 'db.sqlite3',#数据库名字
+        'ENGINE': 'django.db.backends.mysql', # 数据库引擎
+        'HOST': '127.0.0.1', # 数据库主机
+        'PORT': 3306, # 数据库端口
+        'USER': 'itheima', # 数据库用户名
+        'PASSWORD': '123456', # 数据库用户密码
+        'NAME': 'blog' # 数据库名字
     }
 }
 
@@ -123,9 +129,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'zh-Hans'#'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'#'UTC'
 
 USE_I18N = True
 
@@ -190,3 +196,11 @@ LOGGING = {
 #替换系统的Users，换成自己的Users
 #配置信息为‘子应用名.模型类型’
 AUTH_USER_MODEL = 'users.User'
+
+LOGIN_URL = '/login/'
+
+#图片上传的路径并新建文件夹media
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+
+# 图片的统一路由
+MEDIA_URL = '/media/'
